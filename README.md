@@ -10,12 +10,16 @@ record into the database. After the submission of the appointment details, a con
 The team tried its best to recreate an appointment management system with the available resources.
 The setup is both user and administrator friendly. For the admin, the system is secured by a password using which she/he can update and modify the records while for the customer the welcome screen appears.
 
-# FEATURES:-
+# Features:-
 •Booking of appointments
+
 •Confirmation of the appointment displayed
+
 •Records can be checked in the MySQL database.
 
-# THE SYSTEM IS DESIGNED USING:-
+# The system is designed using:-
 •PYTHON IDLE-64 bits
+
 •Flask based Web Servers
+
 •MySql
