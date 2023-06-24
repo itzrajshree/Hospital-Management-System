@@ -1,0 +1,8 @@
+•Python Programming has been used to design the basic framework of the system.
+•Dynamic creation of data files for booked appointments of a particular patient has been enabled with the help of python.
+•MySQL has been used for administrator’s access to the database required for the maintenance of the records.
+•To ensure data security records are password protected accessible only by the administrator.
+•The program has been divided into various classes and functions for modularity, readability and data abstraction.
+•The program is made comprehensive to help the reader and user by giving necessary instructions and writing required comments respectively.
+•With the help of Flask Framework, desired interface has been provided to the user illustrated with graphics.
+•Access for MySQL for the admin has been inculcated in the Flask framework.
